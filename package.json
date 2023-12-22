@@ -1,0 +1,20 @@
+{
+  "name": "Closures-Scope",
+  "version": "1.0.0",
+  "description": "Curso de Closures y Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnRuizOkboy/Closures-Scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnRuizOkboy/Closures-Scope/issues"
+  },
+  "homepage": "https://github.com/adnRuizOkboy/Closures-Scope#readme"
+}
